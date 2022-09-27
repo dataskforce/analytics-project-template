@@ -8,5 +8,4 @@ There is an error in file configurations
 
     """)
 
-
 deprecation_warning()
